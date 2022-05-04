@@ -19,3 +19,8 @@ estimation and find the top features that affect the fare amount most.
 ![image](https://user-images.githubusercontent.com/32992856/166613535-92a092f7-9394-4549-869a-66f2374d31e0.png)
 ![image](https://user-images.githubusercontent.com/32992856/166613553-b53ab347-7145-4591-8f37-6af0e8f0ccc0.png)
 
+## Reference
+[1] Kuang Dongyu (2019) Research on short-term forecast of online car-hailing demand based on Time Series Analysis. 
+[2] Chun-Hsin Wu (2004) Taxi Fare Prediction System Using Key Feature Extraction in Artificial Intelligence.  
+[3] Pallab Banerjee (2020) Predictive Analysis of Taxi Fare using Machine LearningPallab Banerjee.  
+[4] Dr. Balika J Chelliah (2021) Taxi Fare Prediction System Using Key Feature Extraction in Artificial Intelligence.  
