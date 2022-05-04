@@ -12,3 +12,4 @@ estimation and find the top features that affect the fare amount most.
 2. Neural Network
 3. LightGBM
 4. Random Forest
+![image](https://user-images.githubusercontent.com/32992856/166613450-9ae9808b-b019-420a-803a-94f3e52924f2.png)
