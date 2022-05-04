@@ -1,4 +1,5 @@
 # ADS Project: New York City Taxi Fare Prediction
+Thanks to 2022 ADS team members:Ke Zhao, Heng Quan, Gwen Wu, Yuyang Gao, Hao shi, Junren Wang,Chen Liu 
 ## Abstract
 A variety of simple models has been proposed to do estimation of the fare amount. 
 These models can be straightforward but behave bad in the accuracy of the 
