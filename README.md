@@ -8,8 +8,13 @@ analysis, like time analysis, spatial analysis and weather analysis. Then we wil
 use ARIMA, Neural Network, LightGBM and Random Forest to do the 
 estimation and find the top features that affect the fare amount most.
 ## Method
-1.ARIMA
-2. Neural Network
-3. LightGBM
-4. Random Forest
-![image](https://user-images.githubusercontent.com/32992856/166613450-9ae9808b-b019-420a-803a-94f3e52924f2.png)
+1.ARIMA  
+2. Neural Network  
+3. LightGBM  
+4. Random Forest  
+![image](https://user-images.githubusercontent.com/32992856/166613499-c82e32f3-51e5-4b13-9b28-c639350700e4.png)
+![image](https://user-images.githubusercontent.com/32992856/166613510-72a137f4-3a68-43d9-abac-7c6bc100c73f.png)
+![image](https://user-images.githubusercontent.com/32992856/166613528-24e4400b-dc4a-4845-b5da-844b296222a3.png)
+![image](https://user-images.githubusercontent.com/32992856/166613535-92a092f7-9394-4549-869a-66f2374d31e0.png)
+![image](https://user-images.githubusercontent.com/32992856/166613553-b53ab347-7145-4591-8f37-6af0e8f0ccc0.png)
+
